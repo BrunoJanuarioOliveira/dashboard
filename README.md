@@ -1,3 +1,7 @@
+Bruno Januario Oliveira RA: 250276
+Lucas Dantas RA:250332
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
